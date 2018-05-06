@@ -19,6 +19,7 @@ yarn and npm support comming soon.
 ## API documentation
 Properties: 
 isOpen : Becomes visible or hides based on it's value. True means visible otherwise it hides.
+
 OnClickOutside : Defines what happens if user clicks outside the modal while isOpen equals true
 
 ## Usage
